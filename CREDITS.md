@@ -727,3 +727,5 @@ The White Sands theme was created by Mark Badolato.
 The Tailwind Dark theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
 
 The Tailwind Light theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
+
+The Canyon Walnut theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
